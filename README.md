@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CatnissCullen
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 👀 currently insterested in the field of Machine Learning & Computer Vision
+- 🌱 learning python + improving C++
 - 📫 How to reach me :chael_c@qq.com
 
 <!---
