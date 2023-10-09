@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatnissCullen
-- 👀 currently insterested in the field of Machine Learning & Computer Vision
+- 👀 currently insterested in the field of Computer Vision
 - 🌱 learning python + improving C++
 - 📫 How to reach me :chael_c@qq.com
 
