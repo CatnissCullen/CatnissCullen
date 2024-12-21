@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatnissCullen
-- 👀 currently interested in the field of Image Generation
+- 👀 currently in the field of Image Generation
 - 🌱 mainly studying Diffusion Models
 - 📫 How to reach me: chael_c@qq.com
 
