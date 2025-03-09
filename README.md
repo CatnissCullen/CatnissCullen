@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CatnissCullen
-- 👀 currently in the field of Image Generation
-- 🌱 mainly studying Diffusion Models
-- 📫 How to reach me: chael_c@qq.com
+- 🌱 research interests: image generation, diffusion, multimodal/ cross-modal leaning
+- 📫 How to reach me: ypingqiu@126.com
 
 <!---
 CatnissCullen/CatnissCullen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
