@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatnissCullen
-- 🌱 research interests: image generation, diffusion, multimodal/ cross-modal leaning
+- 🌱 research interests: image generation, diffusion, text2image, neural painting
 - 📫 How to reach me: ypingqiu@126.com
 
 <!---
