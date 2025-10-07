@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @CatnissCullen
-- 🌱 research interests: image generation, diffusion, text2image, neural painting
+- 🌱 research interests: image generation, diffusion, text2image, neural painting, autoregressive models...
 - 📫 How to reach me: ypingqiu@126.com
 
     ![Typing SVG](https://readme-typing-svg.demolab.com/?color=6F60AA&lines=Connecting+2+my+planet...;Welcome!)
